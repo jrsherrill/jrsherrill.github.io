@@ -140,7 +140,7 @@ h4 {
 }
 
 #home {
-  background: url(http://i1190.photobucket.com/albums/z454/jason_sherrill1/building_zpsyeqjduxv.jpg) no-repeat center center fixed;
+  background: url(http://ec2-13-59-167-48.us-east-2.compute.amazonaws.com/images/building.jpg) no-repeat center center fixed;
   padding-bottom: 250px;
   padding-top: 50px;
 }
@@ -166,14 +166,14 @@ h4 {
 }
 
 #about {
-  background: url(http://i1190.photobucket.com/albums/z454/jason_sherrill1/businessman_zpsk1l431mu.jpg) no-repeat center center fixed;
+  background: url(http://ec2-13-59-167-48.us-east-2.compute.amazonaws.com/images/businessman.jpg) no-repeat center center fixed;
   padding-bottom: 500px;
   padding-left: 0;
   padding-top: 400px;
 }
 
 #contact {
-  background: url(http://i1190.photobucket.com/albums/z454/jason_sherrill1/Antique%20Typewriter_zpsumfhdb61.jpg) no-repeat center center fixed;
+  background: url(http://ec2-13-59-167-48.us-east-2.compute.amazonaws.com/images/typewriter.jpg) no-repeat center center fixed;
   height: 600px;
   padding-bottom: 15px;
   padding-left: 20px;
